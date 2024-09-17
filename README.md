@@ -23,3 +23,9 @@ Contact information and a form for inquiries.
 Information on museum timings, location, and guidelines for visitors.
 ### Tickets:
 Ticket booking options with prices and special offer
+# Technology Used
+### HTML5
+### CSS3
+### JavaScript
+### Particle.js
+### GSAP
